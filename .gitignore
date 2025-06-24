@@ -1,3 +1,8 @@
 dev-notes.md
 scaffold_meeting.py
 transcript_utils.py
+council.py
+context.txt
+transcript_raw.txt
+agenda.md
+.artifacts/
